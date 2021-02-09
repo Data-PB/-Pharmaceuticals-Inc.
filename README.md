@@ -22,3 +22,4 @@ A pharmaceutical company specializing in anti-cancer pharmaceutical began screen
 * Generated a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
