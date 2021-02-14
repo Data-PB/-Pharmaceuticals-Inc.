@@ -14,6 +14,11 @@ A pharmaceutical company specializing in anti-cancer pharmaceutical began screen
 * Remicane and Capomulin were successful at reducing tumor volume. Remicane and Capomulin reduced average tumor volume by roughly 11%-12%, whereas other treatments increased average tumor volume by roughly 16%-22% after 45 days of treatment.
 * Capomulin yielded the highest mouse survival rate, which was about 84%, whereas Propriva yielded only 28% based on the number of mice on day 1 versus day 45 of the treatment duration.
 
+![Scatter plot Capomulin](Images/Scatter plot Capomulin.png)
+
+![Correlation and Regression](Images/Correlation and Regression.png)
+
+
 ## Data Analysis  
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 * Generated a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
