@@ -16,7 +16,7 @@ A pharmaceutical company specializing in anti-cancer pharmaceutical began screen
 
 ![Scatter_Plot](Images/Scatter plot Capomulin.png)
 
-![Correlation and Regression](Images/Correlation and Regression.png)
+![Correlation_and_Regression](Images/Correlation and Regression.png)
 
 
 ## Data Analysis  
